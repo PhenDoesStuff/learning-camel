@@ -14,7 +14,7 @@ public class CopyFilesCamel {
             context.addRoutes(new RouteBuilder() {
                 @Override
                 public void configure() throws Exception {
-                    from("file:data/input?noop=true").to("file:data/output");
+                    from("file:data/input").to("file:data/output");
                 }
             });
 
