@@ -1,0 +1,7 @@
+
+g
+java:S2674"JCheck the return value of the "read" call to see how many bytes were read.(°¼´Š8Žþ£Ãç/
+p
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(óüÎ©úÿÿÿÿ8 þ£Ãç/
+o
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ƒ–¿õûÿÿÿÿ8 þ£Ãç/
